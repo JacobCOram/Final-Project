@@ -201,9 +201,7 @@ def ask_user_questions(unique_genres, ask_max_songs=True):
     return filters
 
 def select_genres_for_search(unique_genres):
-    """
-    Ask the user to select genres for the search operation.
-    """
+    
     genre_groups = {
         "1": [
             "pop", "alt-rock", "alternative", "indie", "indie-pop", "power-pop", "psych-rock", "punk", "punk-rock", "rock",
