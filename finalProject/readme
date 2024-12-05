@@ -5,4 +5,4 @@ This folder contains all the files necessary
 4. b_tree.py
 5. songs_dataset.csv
 
-Need to have pandas tool for python
+Need to have pandas library for python
