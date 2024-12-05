@@ -1,1 +1,8 @@
+This folder contains all the files necessary
+1. main.py
+2. dataset_utils.py
+3. red_black_tree.py
+4. b_tree.py
+5. songs_dataset.csv
 
+Need to have pandas tool for python
